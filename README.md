@@ -16,8 +16,9 @@ I have professional experience in
 • 🔮 Predictive Analytics <br/>
 • 📊 Data Visualization <br/>
 
-I firmly believe the open-source community drives technological innovation. I’m passionate about exploring and contributing to impactful open-source projects, to help shape the future of decentralized technology!
+I firmly believe the open-source community drives technological innovation. I’m passionate about exploring and contributing to impactful open-source projects!
 
+You can reach me at LinkedIn: <a href="www.linkedin.com/in/aditidarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adjdnkfd" height="30" width="40" /></a>
 <!--
 **Aditi-Darade/Aditi-Darade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
